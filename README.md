@@ -88,8 +88,6 @@ OFFLINE_THRESHOLD = 30           # آستانه زمان آفلاین (ثانی�
 4. یک Pull Request ارسال کنید
 
 ## 📞 پشتیبانی
-- ایمیل: support@example.com
-- تلگرام: @network_monitor_support
 - گیت‌هاب: ثبت Issue
 
 
