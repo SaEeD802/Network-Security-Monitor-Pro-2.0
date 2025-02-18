@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg"/>
   <img src="https://img.shields.io/badge/Flask-2.0%2B-green.svg"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
   <img src="https://img.shields.io/badge/Version-2.0-red.svg"/>
 </div>
 
@@ -77,8 +76,6 @@ OFFLINE_THRESHOLD = 30           # آستانه زمان آفلاین (ثانی�
    socketio.run(app, port=5001, debug=True)
    ```
 
-## 📝 لایسنس
-این پروژه تحت لایسنس MIT منتشر شده است.
 
 ## 👥 مشارکت
 از مشارکت شما در توسعه این پروژه استقبال می‌کنیم! لطفاً:
